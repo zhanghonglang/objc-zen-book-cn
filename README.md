@@ -134,7 +134,7 @@ Objective-C 没有消失，但是现在用一个慢慢失去关注的语言来�
 
 
 
-**部分译文表达可能存在不妥之处，非常欢迎各种修订建议和校队。 请直接 fork 本仓库，在 README.md 文件中修改，并申请 pull request 到 <https://github.com/oa414/objc-zen-book-cn/>。**
+**部分译文表达可能存在不妥之处，非常欢迎各种修订建议和校对。 请直接 fork 本仓库，在 README.md 文件中修改，并申请 pull request 到 <https://github.com/oa414/objc-zen-book-cn/>。**
 
 
 #  条件语句
